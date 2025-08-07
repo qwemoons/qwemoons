@@ -5,7 +5,3 @@
 
 <h2> My main projects 👇</h2>
 <p>1. None</p>
-
-
-<h2> Youtube </h2> 
-<a href="https://www.youtube.com/channel/UCTwgoIFI7Ksc_1XLnlthohw"/>❤️ Youtube ❤️</a>
